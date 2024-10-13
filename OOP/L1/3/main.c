@@ -13,10 +13,14 @@ void listf (double (*fp)(double), double min, double max, double pas) {
 
 int main(void){
 
-   double (*pf[6]) (double) = {sqrt, sin, cos, tan, exp, log};
+    double (*pf[6]) (double) = {sqrt, sin, cos, tan, exp, log};
+
+    char *names[6] = {"sqrt", "sin", "cos", "tan", "exp", "log"}; 
 
     for(int i = 0; i < 6; i++){
+        printf("Function: %s", names[i]);
         listf(pf[i], 1, 10, 0.1);
+        printf("\n");
     }
 
     return 0;
