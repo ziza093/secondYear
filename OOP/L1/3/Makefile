@@ -5,6 +5,7 @@ main.o: main.c
 	gcc -Wall -c main.c
 
 .PHONY: clean
-	clean:
-		rm -f *.o
-		rm main
+
+clean:
+	rm -f *.o
+	rm main
