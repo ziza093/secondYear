@@ -1,8 +1,8 @@
 main: main.o
-	gcc main.o -Wall -lm -o main
+	g++ main.o -Wall -lm -o main
 
-main.o: main.c
-	gcc -Wall -c main.c
+main.o: main.cpp
+	g++ -Wall -c main.cpp
 
 .PHONY: clean
 
