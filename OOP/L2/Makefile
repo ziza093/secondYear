@@ -1,5 +1,5 @@
 main: main.o
-	g++ main.o -Wall -lm -o main
+	g++ main.o -Wall -o main
 
 main.o: main.cpp
 	g++ -Wall -c main.cpp
