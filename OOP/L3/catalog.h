@@ -54,3 +54,4 @@ typedef struct _Catalog{
 int compareNameAlphabetically(Student a, Student b);
 int compareNotesDescending(Student a, Student b);
 int compareNameByLengthAscending(Student a, Student b);
+void swap(Student &a, Student &b);
