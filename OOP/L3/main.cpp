@@ -26,13 +26,25 @@ int main(void){
 			case 1:
 				anComparisonFunctionPointer = compareNameAlphabetically;
 				year2.setComparator(anComparisonFunctionPointer);
+				year2.setComparator(compareNameAlphabetically);
+				year2.sort();
+				year2.write();
 				break;
 
 			case 2:
+				anComparisonFunctionPointer=compareNotesDescending;
+				year2.setComparator(anComparisonFunctionPointer);
+				year2.sort();
+				year2.write();
 				break;
 
 			case 3:
+				anComparisonFunctionPointer=compareNameByLengthAscending;
+				year2.setComparator(anComparisonFunctionPointer);
+				year2.sort();
+				year2.write();
 				break;
+
 		}
 
 	}while(choice);
