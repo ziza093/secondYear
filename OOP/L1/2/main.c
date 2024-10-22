@@ -82,8 +82,8 @@ int main(void){
             case 5:
 	              char *table[100] = {"course1", "course2", "course3", "course4", "course5"};
 	              char *cuv1 = "course2", *cuv2 = "course7";
-	              printf("course2 %s in table\n",(eqcuv(cuv1, tablou))?"is":"isn't");
-	              printf("course7 %s in table\n",(eqcuv(cuv2, tablou))?"is":"isn't");
+	              printf("course2 %s in table\n",(eqcuv(cuv1, table))?"is":"isn't");
+	              printf("course7 %s in table\n",(eqcuv(cuv2, table))?"is":"isn't");
                 
                 break;
         }
