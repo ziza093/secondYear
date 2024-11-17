@@ -155,27 +155,25 @@ extern putchar:proc ; parametru CL (caracter de afisat)
  NrAparitii endp
 
  ;6)
- ;algoritm sortare vector bubble sort
- ;4 1 3 8 2
- ;merge partial :))
+ ;algoritm sortare vector - bubble sort
  SortVector proc
-   sub rsp, 32
-    
+    sub rsp, 32
+                                    ;r8 = i
+                                    ;r12 = j
     xor r8, r8                      ;r8 = 0
-    xor r12, r12                    ;r12 = 0
 
     start_for1:
-        mov r13, rdx                ;rdx--
-        dec r13
-        cmp r8, r13                 ;test for
+        mov r13, rdx                ;rdx-- (r13 = n)
+        dec r13                     ;r13 = n-1
+        cmp r8, r13                 ;test for (i< n - 1)
         jge end_for1
         
-        inc r8
+        xor r12, r12                ;r12 = 0
         start_for2:
-            mov r14, rdx            ;r14 = rdx-1-r8
-            dec r14
-            sub r14, r8             
-            cmp r12, r14            ;test for
+            mov r14, rdx            ;r14 = rdx-1-r8 (r14 = n)
+            dec r14                 ; r14 = n - 1
+            sub r14, r8             ; r14 = n - 1 - i
+            cmp r12, r14            ;test for (j < n-1-i)
             jge end_for2
 
             mov r9, [rcx+r12*8]         ;get value v[j]
@@ -186,7 +184,6 @@ extern putchar:proc ; parametru CL (caracter de afisat)
             cmp r9, r10                 ;compare v[j] with v[j+1]
             jle @F 
                 ;swap
-                ;
                 mov [rsi], r10          ;la adresa primului nr se pune al 2 lea
                 mov [rdi], r9           ;la adresa celui de-al doilea nr se pune primul
             @@:
@@ -194,6 +191,7 @@ extern putchar:proc ; parametru CL (caracter de afisat)
             jmp start_for2
         
         end_for2:
+    inc r8
     jmp start_for1
     end_for1:
 
@@ -201,12 +199,6 @@ extern putchar:proc ; parametru CL (caracter de afisat)
     ret
 
  SortVector endp
-
- AfisareVector proc
-
-    
-
- AfisareVector endp
 
  PrintF proc
     mov  [rsp+8], rcx           ; copiere argumente pe stiva: (in SHADOW AREA)
