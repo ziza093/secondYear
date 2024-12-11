@@ -68,7 +68,7 @@ MinandMax proc uses rbx rsi rdi @vect:ptr, vectLength:qword, @min:ptr, @max:ptr
 	ret									
 MinandMax endp
 
-Appearances proc uses rbx @sir:ptr, @char:byte	 
+Appearances proc uses rbx rsi @sir:ptr, @char:byte	 
 
 	.if @sir && @char
 		mov rbx, @sir					;get the adress of the array
