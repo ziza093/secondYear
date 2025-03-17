@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.1 (64-bit)
+# SW Build 5266912 on Sun Dec 15 09:03:31 MST 2024
+# IP Build 5264866 on Sun Dec 15 16:27:47 MST 2024
+# SharedData Build 5264680 on Wed Dec 11 12:48:36 MST 2024
+# Start of session at: Mon Mar 17 18:11:08 2025
+# Process ID         : 39626
+# Current directory  : /home/gabi/University/personal_GitHub/secondYear/ED/Project/Project.runs/impl_1
+# Command line       : vivado -log source.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source source.tcl -notrace
+# Log file           : /home/gabi/University/personal_GitHub/secondYear/ED/Project/Project.runs/impl_1/source.vdi
+# Journal file       : /home/gabi/University/personal_GitHub/secondYear/ED/Project/Project.runs/impl_1/vivado.jou
+# Running On         : ziza
+# Platform           : Debian
+# Operating System   : Debian GNU/Linux 12 (bookworm)
+# Processor Detail   : Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+# CPU Frequency      : 3246.109 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 16644 MB
+# Swap memory        : 0 MB
+# Total Virtual      : 16644 MB
+# Available Virtual  : 7934 MB
+#-----------------------------------------------------------
+source source.tcl -notrace
