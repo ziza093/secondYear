@@ -1,0 +1,30 @@
+Author: Ziza093
+The title is: test
+The date and time it was created: Sun Mar 16 17:27:14 EDT 2025
+The notes content is: test
+------------------------
+Author: Ziza
+The title is: note
+The date and time it was created: Sun Mar 16 18:54:10 EDT 2025
+The notes content is: content
+------------------------
+Author: Ziza
+The title is: This is the 2 note
+The date and time it was created: Sun Mar 16 19:16:12 EDT 2025
+The notes content is: Bla bLa bLA
+------------------------
+Author: Gabi
+The title is: hmm
+The date and time it was created: Sun Mar 16 19:42:16 EDT 2025
+The notes content is: hmm
+------------------------
+Author: Nihai
+The title is: haha
+The date and time it was created: Sun Mar 16 19:43:22 EDT 2025
+The notes content is: hihi
+------------------------
+Author: Ziza
+The title is: test3
+The date and time it was created: Sun Mar 16 19:57:30 EDT 2025
+The notes content is: test2
+------------------------
