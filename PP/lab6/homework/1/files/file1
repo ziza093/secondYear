@@ -1,0 +1,13 @@
+This is an example of an ASCII/UTF-8 text file.
+It contains multiple lines of plain text that your program should identify.
+
+ASCII stands for American Standard Code for Information Interchange.
+It's a character encoding standard that represents text in computers.
+Most ASCII characters use only 7 bits, giving a total of 128 possible characters.
+
+UTF-8 is a variable-width character encoding that can represent almost every character
+in the Unicode standard, yet remains backward-compatible with ASCII.
+It has become the dominant encoding for the World Wide Web, accounting for over 95% of all web pages.
+
+Your file detection algorithm should be able to recognize this as a plain text file
+even though it has a .txt extension like all the other test files.

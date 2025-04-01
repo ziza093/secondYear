@@ -1,0 +1,133 @@
+
+Start-Date: 2025-03-02  12:51:19
+Commandline: apt upgrade
+Requested-By: gabi (1000)
+Upgrade: xserver-xorg-core:amd64 (2:21.1.7-3+deb12u8, 2:21.1.7-3+deb12u9), xserver-xorg-legacy:amd64 (2:21.1.7-3+deb12u8, 2:21.1.7-3+deb12u9), xserver-common:amd64 (2:21.1.7-3+deb12u8, 2:21.1.7-3+deb12u9)
+End-Date: 2025-03-02  12:51:45
+
+Start-Date: 2025-03-02  12:52:28
+Commandline: apt install python3-pip
+Requested-By: gabi (1000)
+Install: libpython3-dev:amd64 (3.11.2-1+b1, automatic), python3-lib2to3:amd64 (3.11.2-3, automatic), zlib1g-dev:amd64 (1:1.2.13.dfsg-1, automatic), python3-wheel:amd64 (0.38.4-2, automatic), python3-dev:amd64 (3.11.2-1+b1, automatic), python3-pip:amd64 (23.0.1+dfsg-1), libpython3.11-dev:amd64 (3.11.2-6+deb12u5, automatic), python3.11-dev:amd64 (3.11.2-6+deb12u5, automatic), python3-distutils:amd64 (3.11.2-3, automatic), libexpat1-dev:amd64 (2.5.0-1+deb12u1, automatic), python3-setuptools:amd64 (66.1.1-1+deb12u1, automatic)
+End-Date: 2025-03-02  12:53:20
+
+Start-Date: 2025-03-02  12:54:12
+Commandline: apt install python3-numpy
+Requested-By: gabi (1000)
+Install: python3-numpy:amd64 (1:1.24.2-1+deb12u1)
+End-Date: 2025-03-02  12:54:25
+
+Start-Date: 2025-03-02  12:55:17
+Commandline: apt install python3-matplotlib
+Requested-By: gabi (1000)
+Install: libopenblas0:amd64 (0.3.21+ds-4, automatic), python3-appdirs:amd64 (1.4.4-3, automatic), python3-fs:amd64 (2.4.16-2, automatic), python3-tk:amd64 (3.11.2-3, automatic), python3-tz:amd64 (2022.7.1-4, automatic), libboost1.74-dev:amd64 (1.74.0+ds1-21, automatic), python3-dateutil:amd64 (2.8.2-2, automatic), blt:amd64 (2.5.3+dfsg-4.1, automatic), fonts-lyx:amd64 (2.3.7-1, automatic), libpython3-all-dev:amd64 (3.11.2-1+b1, automatic), python3-matplotlib:amd64 (3.6.3-1+b1), libopenblas-pthread-dev:amd64 (0.3.21+ds-4, automatic), libjs-jquery-ui:amd64 (1.13.2+dfsg-1, automatic), python3-contourpy:amd64 (1.0.7-1+b1, automatic), libtcl8.6:amd64 (8.6.13+dfsg-2, automatic), unicode-data:amd64 (15.0.0-1, automatic), python3-decorator:amd64 (5.1.1-3, automatic), tk8.6-blt2.5:amd64 (2.5.3+dfsg-4.1, automatic), libtk8.6:amd64 (8.6.13-2, automatic), python3-scipy:amd64 (1.10.1-2, automatic), python3-gast:amd64 (0.5.2-2, automatic), python3-attr:amd64 (22.2.0-1, automatic), python3-sympy:amd64 (1.11.1-1, automatic), python3-fonttools:amd64 (4.38.0-1+b1, automatic), python3-packaging:amd64 (23.0-1, automatic), python3-lxml:amd64 (4.9.2-1+b1, automatic), libboost-dev:amd64 (1.74.0.3, automatic), python3-soupsieve:amd64 (2.3.2-1, automatic), python3-all:amd64 (3.11.2-1+b1, automatic), libqhull-r8.0:amd64 (2020.2-5, automatic), python3-all-dev:amd64 (3.11.2-1+b1, automatic), python3-bs4:amd64 (4.11.2-2, automatic), python3-pil.imagetk:amd64 (9.4.0-1.1+deb12u1, automatic), python3-webencodings:amd64 (0.5.1-5, automatic), isympy3:amd64 (1.11.1-1, automatic), python-matplotlib-data:amd64 (3.6.3-1, automatic), python3-lz4:amd64 (4.0.2+dfsg-1+b2, automatic), libimagequant0:amd64 (2.17.0-1, automatic), python3-pil:amd64 (9.4.0-1.1+deb12u1, automatic), python3-ply:amd64 (3.11-5, automatic), python3-kiwisolver:amd64 (1.4.4-1+b1, automatic), python3-mpmath:amd64 (1.2.1-2, automatic), python3-brotli:amd64 (1.0.9-2+b6, automatic), python3-cycler:amd64 (0.11.0-1, automatic), liblbfgsb0:amd64 (3.0+dfsg.4-1, automatic), python3-olefile:amd64 (0.46-3, automatic), libraqm0:amd64 (0.7.0-4.1, automatic), python3-html5lib:amd64 (1.1-3, automatic), python3-ufolib2:amd64 (0.14.0+dfsg1-1, automatic), python3-beniget:amd64 (0.4.1-3, automatic), python3-pythran:amd64 (0.11.0+ds-7, automatic), libxsimd-dev:amd64 (8.1.0-7, automatic), libopenblas-dev:amd64 (0.3.21+ds-4, automatic), libopenblas0-pthread:amd64 (0.3.21+ds-4, automatic), isympy-common:amd64 (1.11.1-1, automatic)
+End-Date: 2025-03-02  12:58:48
+
+Start-Date: 2025-03-02  18:54:49
+Commandline: apt install python3.11-venv
+Requested-By: gabi (1000)
+Install: python3-setuptools-whl:amd64 (66.1.1-1+deb12u1, automatic), python3-pip-whl:amd64 (23.0.1+dfsg-1, automatic), python3.11-venv:amd64 (3.11.2-6+deb12u5)
+End-Date: 2025-03-02  18:54:56
+
+Start-Date: 2025-03-04  17:59:20
+Commandline: apt upgrade
+Requested-By: gabi (1000)
+Upgrade: libreoffice-calc:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), uno-libs-private:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-base-core:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-core:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-common:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), ure:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-draw:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libuno-purpenvhelpergcc3-3:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libuno-cppu3:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-impress:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libuno-cppuhelpergcc3-3:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), fonts-opensymbol:amd64 (4:102.12+LibO7.4.7-1+deb12u6, 4:102.12+LibO7.4.7-1+deb12u7), libreoffice-style-colibre:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-writer:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libuno-salhelpergcc3-3:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-help-common:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), python3-uno:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libuno-sal3:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-math:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-gtk3:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7), libreoffice-help-en-us:amd64 (4:7.4.7-1+deb12u6, 4:7.4.7-1+deb12u7)
+End-Date: 2025-03-04  18:03:52
+
+Start-Date: 2025-03-04  18:09:59
+Commandline: apt-get install ./touchegg_2.0.17_amd64.deb
+Requested-By: gabi (1000)
+Install: touchegg:amd64 (2.0.17), libpugixml1v5:amd64 (1.13-0.2, automatic)
+End-Date: 2025-03-04  18:10:05
+
+Start-Date: 2025-03-07  09:46:42
+Commandline: apt install libtinfo5
+Requested-By: gabi (1000)
+Install: libtinfo5:amd64 (6.4-4)
+End-Date: 2025-03-07  09:46:52
+
+Start-Date: 2025-03-07  09:47:55
+Commandline: apt install libglib2.0-dev
+Requested-By: gabi (1000)
+Install: libblkid-dev:amd64 (2.38.1-5+deb12u3, automatic), libselinux1-dev:amd64 (3.4-1+b6, automatic), libglib2.0-dev-bin:amd64 (2.74.6-2+deb12u5, automatic), libmount-dev:amd64 (2.38.1-5+deb12u3, automatic), libglib2.0-dev:amd64 (2.74.6-2+deb12u5), pkgconf:amd64 (1.8.1-1, automatic), libpcre2-posix3:amd64 (10.42-1, automatic), libffi-dev:amd64 (3.4.4-1, automatic), libpcre2-16-0:amd64 (10.42-1, automatic), libsepol-dev:amd64 (3.4-2.1, automatic), uuid-dev:amd64 (2.38.1-5+deb12u3, automatic), pkg-config:amd64 (1.8.1-1, automatic), pkgconf-bin:amd64 (1.8.1-1, automatic), libpcre2-32-0:amd64 (10.42-1, automatic), libpkgconf3:amd64 (1.8.1-1, automatic), libpcre2-dev:amd64 (10.42-1, automatic)
+End-Date: 2025-03-07  09:48:51
+
+Start-Date: 2025-03-07  09:50:27
+Commandline: apt install libgtk2.0-dev
+Requested-By: gabi (1000)
+Install: debhelper:amd64 (13.11.4, automatic), xtrans-dev:amd64 (1.4.0-1, automatic), libxcomposite-dev:amd64 (1:0.4.5-1, automatic), dwz:amd64 (0.15-1, automatic), libxrender-dev:amd64 (1:0.9.10-1.1, automatic), libxml2-utils:amd64 (2.9.14+dfsg-1.3~deb12u1, automatic), libxcb1-dev:amd64 (1.15-1, automatic), liblzo2-2:amd64 (2.10-2, automatic), libjpeg-dev:amd64 (1:2.1.5-2, automatic), libice-dev:amd64 (2:1.0.10-1, automatic), libharfbuzz-subset0:amd64 (6.0.0+dfsg-3, automatic), libjpeg62-turbo-dev:amd64 (1:2.1.5-2, automatic), libgtk2.0-dev:amd64 (2.24.33-2+deb12u1), libwebp-dev:amd64 (1.2.4-0.2+deb12u1, automatic), automake:amd64 (1:1.16.5-1.3, automatic), libxrandr-dev:amd64 (2:1.5.2-2+b1, automatic), libarchive-zip-perl:amd64 (1.68-1, automatic), libpng-dev:amd64 (1.6.39-2, automatic), libxfixes-dev:amd64 (1:6.0.0-2, automatic), libfribidi-dev:amd64 (1.0.8-2.1, automatic), liblerc-dev:amd64 (4.0.0+ds-2, automatic), libtiffxx6:amd64 (4.5.0-6+deb12u2, automatic), libsm-dev:amd64 (2:1.2.3-1, automatic), libsub-override-perl:amd64 (0.09-4, automatic), po-debconf:amd64 (1.0.21+nmu1, automatic), libdebhelper-perl:amd64 (13.11.4, automatic), libxinerama-dev:amd64 (2:1.1.4-3, automatic), gir1.2-gtk-2.0:amd64 (2.24.33-2+deb12u1, automatic), libjbig-dev:amd64 (2.1-6.1, automatic), libxau-dev:amd64 (1:1.0.9-1, automatic), libfontconfig-dev:amd64 (2.14.1-4, automatic), libxi-dev:amd64 (2:1.8-1+b1, automatic), libcairo-script-interpreter2:amd64 (1.16.0-7, automatic), liblzma-dev:amd64 (5.4.1-0.2, automatic), libltdl-dev:amd64 (2.4.7-7~deb12u1, automatic), libxcb-shm0-dev:amd64 (1.15-1, automatic), autoconf:amd64 (2.71-3, automatic), xorg-sgml-doctools:amd64 (1:1.11-1.1, automatic), autopoint:amd64 (0.21-12, automatic), libdatrie-dev:amd64 (0.2.13-2+b1, automatic), libatk1.0-dev:amd64 (2.46.0-5, automatic), libgdk-pixbuf-2.0-dev:amd64 (2.42.10+dfsg-1+deb12u1, automatic), libdeflate-dev:amd64 (1.14-1, automatic), libxft-dev:amd64 (2.3.6-1, automatic), pango1.0-tools:amd64 (1.50.12+ds-1, automatic), libxcursor-dev:amd64 (1:1.2.1-1, automatic), libxcb-render0-dev:amd64 (1.15-1, automatic), autotools-dev:amd64 (20220109.1, automatic), gettext:amd64 (0.21-12, automatic), libxdamage-dev:amd64 (1:1.1.6-1, automatic), libbrotli-dev:amd64 (1.0.9-2+b6, automatic), libzstd-dev:amd64 (1.5.4+dfsg2-5, automatic), libsys-hostname-long-perl:amd64 (1.5-3, automatic), libtool:amd64 (2.4.7-7~deb12u1, automatic), libgraphite2-dev:amd64 (1.3.14-1, automatic), libicu-dev:amd64 (72.1-3, automatic), libx11-dev:amd64 (2:1.8.4-2+deb12u2, automatic), libpthread-stubs0-dev:amd64 (0.4-1, automatic), dh-autoreconf:amd64 (20, automatic), libmail-sendmail-perl:amd64 (0.80-3, automatic), libpng-tools:amd64 (1.6.39-2, automatic), libxext-dev:amd64 (2:1.3.4-1+b1, automatic), libharfbuzz-gobject0:amd64 (6.0.0+dfsg-3, automatic), libfreetype-dev:amd64 (2.12.1+dfsg-5+deb12u3, automatic), dh-strip-nondeterminism:amd64 (1.13.1-1, automatic), m4:amd64 (1.4.19-3, automatic), libxdmcp-dev:amd64 (1:1.1.2-3, automatic), intltool-debian:amd64 (0.35.0+20060710.6, automatic), libfile-stripnondeterminism-perl:amd64 (1.13.1-1, automatic), libcairo2-dev:amd64 (1.16.0-7, automatic), x11proto-dev:amd64 (2022.1-1, automatic), libtiff-dev:amd64 (4.5.0-6+deb12u2, automatic), libpixman-1-dev:amd64 (0.42.2-1, automatic), libharfbuzz-dev:amd64 (6.0.0+dfsg-3, automatic), libpango1.0-dev:amd64 (1.50.12+ds-1, automatic), x11proto-core-dev:amd64 (2022.1-1, automatic), libarchive-cpio-perl:amd64 (0.10-3, automatic), libthai-dev:amd64 (0.1.29-1, automatic), icu-devtools:amd64 (72.1-3, automatic)
+End-Date: 2025-03-07  09:53:44
+
+Start-Date: 2025-03-07  09:54:42
+Commandline: apt install default-jre
+Requested-By: gabi (1000)
+Install: libatk-wrapper-java-jni:amd64 (0.40.0-3, automatic), openjdk-17-jre:amd64 (17.0.14+7-1~deb12u1, automatic), java-common:amd64 (0.74, automatic), libgif7:amd64 (5.2.1-2.5, automatic), default-jre-headless:amd64 (2:1.17-74, automatic), ca-certificates-java:amd64 (20230710~deb12u1, automatic), default-jre:amd64 (2:1.17-74), libatk-wrapper-java:amd64 (0.40.0-3, automatic), fonts-dejavu-extra:amd64 (2.37-6, automatic), openjdk-17-jre-headless:amd64 (17.0.14+7-1~deb12u1, automatic)
+End-Date: 2025-03-07  09:55:35
+
+Start-Date: 2025-03-07  09:56:24
+Commandline: apt install default-jdk
+Requested-By: gabi (1000)
+Install: openjdk-17-jdk:amd64 (17.0.14+7-1~deb12u1, automatic), openjdk-17-jdk-headless:amd64 (17.0.14+7-1~deb12u1, automatic), default-jdk-headless:amd64 (2:1.17-74, automatic), default-jdk:amd64 (2:1.17-74), libxt-dev:amd64 (1:1.2.1-1.1, automatic)
+End-Date: 2025-03-07  09:56:48
+
+Start-Date: 2025-03-07  09:57:00
+Commandline: apt install libswt-gtk-4-jni
+Requested-By: gabi (1000)
+Install: libswt-gtk-4-jni:amd64 (4.26.0-1)
+End-Date: 2025-03-07  09:57:01
+
+Start-Date: 2025-03-07  09:58:37
+Commandline: apt upgrade
+Requested-By: gabi (1000)
+Upgrade: code:amd64 (1.97.2-1739406807, 1.98.0-1741124782), firefox-esr:amd64 (128.7.0esr-1~deb12u1, 128.8.0esr-1~deb12u1)
+End-Date: 2025-03-07  10:07:30
+
+Start-Date: 2025-03-11  10:29:39
+Commandline: apt install bluetooth bluez blueman pulseaudio-module-bluetooth
+Requested-By: gabi (1000)
+Install: blueman:amd64 (2.3.5-2+b1), bluez-obexd:amd64 (5.66-1+deb12u2, automatic), gir1.2-nm-1.0:amd64 (1.42.4-1, automatic), pulseaudio-module-bluetooth:amd64 (16.1+dfsg1-2+b1), libical3:amd64 (3.0.16-1+b1, automatic)
+End-Date: 2025-03-11  10:30:22
+
+Start-Date: 2025-03-11  10:31:30
+Commandline: apt upgrade
+Requested-By: gabi (1000)
+Upgrade: code:amd64 (1.98.0-1741124782, 1.98.1-1741624510)
+End-Date: 2025-03-11  10:40:02
+
+Start-Date: 2025-03-12  11:15:14
+Commandline: apt-get install rsync
+Requested-By: gabi (1000)
+Install: rsync:amd64 (3.2.7-1+deb12u2)
+End-Date: 2025-03-12  11:15:24
+
+Start-Date: 2025-03-17  13:00:49
+Commandline: apt install libqt5gui5
+Requested-By: gabi (1000)
+Install: qttranslations5-l10n:amd64 (5.15.8-2, automatic), libqt5core5a:amd64 (5.15.8+dfsg-11+deb12u2, automatic), qt5-gtk-platformtheme:amd64 (5.15.8+dfsg-11+deb12u2, automatic), libqt5qml5:amd64 (5.15.8+dfsg-3, automatic), libqt5network5:amd64 (5.15.8+dfsg-11+deb12u2, automatic), libqt5dbus5:amd64 (5.15.8+dfsg-11+deb12u2, automatic), libqt5quick5:amd64 (5.15.8+dfsg-3, automatic), qtwayland5:amd64 (5.15.8-2, automatic), libdouble-conversion3:amd64 (3.2.1-1, automatic), libqt5waylandcompositor5:amd64 (5.15.8-2, automatic), libqt5widgets5:amd64 (5.15.8+dfsg-11+deb12u2, automatic), libqt5gui5:amd64 (5.15.8+dfsg-11+deb12u2), libqt5svg5:amd64 (5.15.8-3, automatic), libqt5qmlmodels5:amd64 (5.15.8+dfsg-3, automatic), libmd4c0:amd64 (0.4.8-1, automatic), libxcb-xinerama0:amd64 (1.15-1, automatic), libxcb-xinput0:amd64 (1.15-1, automatic), libqt5waylandclient5:amd64 (5.15.8-2, automatic)
+End-Date: 2025-03-17  13:01:51
+
+Start-Date: 2025-03-17  13:05:49
+Commandline: apt install sqlite3 sqlitebrowser
+Requested-By: gabi (1000)
+Install: libqscintilla2-qt5-l10n:amd64 (2.13.3+dfsg-3, automatic), libqt5printsupport5:amd64 (5.15.8+dfsg-11+deb12u2, automatic), libqt5xml5:amd64 (5.15.8+dfsg-11+deb12u2, automatic), libqscintilla2-qt5-15:amd64 (2.13.3+dfsg-3, automatic), sqlitebrowser:amd64 (3.12.2-1), sqlite3:amd64 (3.40.1-2+deb12u1)
+End-Date: 2025-03-17  13:06:15
+
+Start-Date: 2025-03-18  09:30:16
+Commandline: apt-get install zip
+Requested-By: gabi (1000)
+Install: zip:amd64 (3.0-13)
+End-Date: 2025-03-18  09:30:35
+
+Start-Date: 2025-03-19  12:25:42
+Commandline: apt upgrade
+Requested-By: gabi (1000)
+Install: linux-headers-6.1.0-32-amd64:amd64 (6.1.129-1, automatic), linux-image-6.1.0-32-amd64:amd64 (6.1.129-1, automatic), linux-headers-6.1.0-32-common:amd64 (6.1.129-1, automatic)
+Upgrade: libcurl4:amd64 (7.88.1-10+deb12u8, 7.88.1-10+deb12u12), docker-compose-plugin:amd64 (2.33.1-1~debian.12~bookworm, 2.34.0-1~debian.12~bookworm), libc6-i386:amd64 (2.36-9+deb12u9, 2.36-9+deb12u10), udev:amd64 (252.33-1~deb12u1, 252.36-1~deb12u1), docker-ce-cli:amd64 (5:28.0.1-1~debian.12~bookworm, 5:28.0.2-1~debian.12~bookworm), libcurl3-gnutls:amd64 (7.88.1-10+deb12u8, 7.88.1-10+deb12u12), systemd-timesyncd:amd64 (252.33-1~deb12u1, 252.36-1~deb12u1), tzdata:amd64 (2024b-0+deb12u1, 2025a-0+deb12u1), libpam-systemd:amd64 (252.33-1~deb12u1, 252.36-1~deb12u1), vim:amd64 (2:9.0.1378-2, 2:9.0.1378-2+deb12u2), vim-common:amd64 (2:9.0.1378-2, 2:9.0.1378-2+deb12u2), linux-compiler-gcc-12-x86:amd64 (6.1.128-1, 6.1.129-1), libsystemd0:amd64 (252.33-1~deb12u1, 252.36-1~deb12u1), libfreetype6:amd64 (2.12.1+dfsg-5+deb12u3, 2.12.1+dfsg-5+deb12u4), libnss-systemd:amd64 (252.33-1~deb12u1, 252.36-1~deb12u1), linux-headers-amd64:amd64 (6.1.128-1, 6.1.129-1), systemd:amd64 (252.33-1~deb12u1, 252.36-1~deb12u1), libudev1:amd64 (252.33-1~deb12u1, 252.36-1~deb12u1), wget:amd64 (1.21.3-1+b2, 1.21.3-1+deb12u1), libopenh264-7:amd64 (2.3.1+dfsg-3+deb12u1, 2.3.1+dfsg-3+deb12u2), linux-kbuild-6.1:amd64 (6.1.128-1, 6.1.129-1), docker-buildx-plugin:amd64 (0.21.1-1~debian.12~bookworm, 0.22.0-1~debian.12~bookworm), docker-ce:amd64 (5:28.0.1-1~debian.12~bookworm, 5:28.0.2-1~debian.12~bookworm), libc6:amd64 (2.36-9+deb12u9, 2.36-9+deb12u10), locales:amd64 (2.36-9+deb12u9, 2.36-9+deb12u10), linux-image-amd64:amd64 (6.1.128-1, 6.1.129-1), vim-tiny:amd64 (2:9.0.1378-2, 2:9.0.1378-2+deb12u2), docker-ce-rootless-extras:amd64 (5:28.0.1-1~debian.12~bookworm, 5:28.0.2-1~debian.12~bookworm), base-files:amd64 (12.4+deb12u9, 12.4+deb12u10), vim-runtime:amd64 (2:9.0.1378-2, 2:9.0.1378-2+deb12u2), libc-dev-bin:amd64 (2.36-9+deb12u9, 2.36-9+deb12u10), libc-l10n:amd64 (2.36-9+deb12u9, 2.36-9+deb12u10), libc-bin:amd64 (2.36-9+deb12u9, 2.36-9+deb12u10), libsystemd-shared:amd64 (252.33-1~deb12u1, 252.36-1~deb12u1), libc-devtools:amd64 (2.36-9+deb12u9, 2.36-9+deb12u10), librabbitmq4:amd64 (0.11.0-1+b1, 0.11.0-1+deb12u1), libfreetype-dev:amd64 (2.12.1+dfsg-5+deb12u3, 2.12.1+dfsg-5+deb12u4), libc6-dbg:amd64 (2.36-9+deb12u9, 2.36-9+deb12u10), libc6-dev:amd64 (2.36-9+deb12u9, 2.36-9+deb12u10), code:amd64 (1.98.1-1741624510, 1.98.2-1741788907), systemd-sysv:amd64 (252.33-1~deb12u1, 252.36-1~deb12u1), dns-root-data:amd64 (2024041801~deb12u1, 2024071801~deb12u1), intel-microcode:amd64 (3.20241112.1~deb12u1, 3.20250211.1~deb12u1), linux-libc-dev:amd64 (6.1.128-1, 6.1.129-1)
+End-Date: 2025-03-19  12:41:35
+
+Start-Date: 2025-03-19  12:44:14
+Commandline: apt install libssl-dev
+Requested-By: gabi (1000)
+Install: libssl-dev:amd64 (3.0.15-1~deb12u1)
+End-Date: 2025-03-19  12:44:16

@@ -1,0 +1,66 @@
+2025-03-02  12:51:19
+apt upgrade
+
+2025-03-02  12:52:28
+apt install python3-pip
+
+2025-03-02  12:54:12
+apt install python3-numpy
+
+2025-03-02  12:55:17
+apt install python3-matplotlib
+
+2025-03-02  18:54:49
+apt install python3.11-venv
+
+2025-03-04  17:59:20
+apt upgrade
+
+2025-03-04  18:09:59
+apt-get install ./touchegg_2.0.17_amd64.deb
+
+2025-03-07  09:46:42
+apt install libtinfo5
+
+2025-03-07  09:47:55
+apt install libglib2.0-dev
+
+2025-03-07  09:50:27
+apt install libgtk2.0-dev
+
+2025-03-07  09:54:42
+apt install default-jre
+
+2025-03-07  09:56:24
+apt install default-jdk
+
+2025-03-07  09:57:00
+apt install libswt-gtk-4-jni
+
+2025-03-07  09:58:37
+apt upgrade
+
+2025-03-11  10:29:39
+apt install bluetooth bluez blueman pulseaudio-module-bluetooth
+
+2025-03-11  10:31:30
+apt upgrade
+
+2025-03-12  11:15:14
+apt-get install rsync
+
+2025-03-17  13:00:49
+apt install libqt5gui5
+
+2025-03-17  13:05:49
+apt install sqlite3 sqlitebrowser
+
+2025-03-18  09:30:16
+apt-get install zip
+
+2025-03-19  12:25:42
+apt upgrade
+
+2025-03-19  12:44:14
+apt install libssl-dev
+
