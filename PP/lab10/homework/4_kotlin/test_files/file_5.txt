@@ -1,0 +1,16 @@
+Acesta este un fișier de test: file_5.txt
+
+Aceasta este propoziția 1 din paragraful 1, care conține aproximativ 13 cuvinte și este generată automat pentru demonstrație.
+Aceasta este propoziția 2 din paragraful 1, care conține aproximativ 9 cuvinte și este generată automat pentru demonstrație.
+Aceasta este propoziția 3 din paragraful 1, care conține aproximativ 12 cuvinte și este generată automat pentru demonstrație.
+Aceasta este propoziția 4 din paragraful 1, care conține aproximativ 12 cuvinte și este generată automat pentru demonstrație.
+Aceasta este propoziția 5 din paragraful 1, care conține aproximativ 10 cuvinte și este generată automat pentru demonstrație.
+Aceasta este propoziția 6 din paragraful 1, care conține aproximativ 10 cuvinte și este generată automat pentru demonstrație.
+Aceasta este propoziția 7 din paragraful 1, care conține aproximativ 8 cuvinte și este generată automat pentru demonstrație.
+Aceasta este propoziția 8 din paragraful 1, care conține aproximativ 11 cuvinte și este generată automat pentru demonstrație.
+
+Aceasta este propoziția 1 din paragraful 2, care conține aproximativ 7 cuvinte și este generată automat pentru demonstrație.
+Aceasta este propoziția 2 din paragraful 2, care conține aproximativ 6 cuvinte și este generată automat pentru demonstrație.
+Aceasta este propoziția 3 din paragraful 2, care conține aproximativ 11 cuvinte și este generată automat pentru demonstrație.
+
+Final de fișier de test.
